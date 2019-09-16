@@ -1,6 +1,5 @@
-# Flex-Bison
-
-```Lex
+# Flex-Bison CODE
+```text
 %%
 
 /*-------------------
@@ -52,3 +51,5 @@ term   	: NUM                	{$$ = $1; }
  	        ;
 %% 
 ```
+# Flex-Bison Screenshot
+![myimage-alt-tag](https://github.com/JeralBenites/Flex-Bison/blob/master/13457730_10209501009703318_70656300_n.png?raw=true)
